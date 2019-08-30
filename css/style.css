@@ -59,7 +59,7 @@ body{
 	padding:0;
 	margin:0;
 }
-.agileinfo-social-grids ul li{
+.agileinfo-social-grids ul li
     display: inline-block;
 }
 .agileinfo-social-grids ul li a {
@@ -611,7 +611,7 @@ i.fa.fa-cog,i.fa.fa-heart,i.fa.fa-paper-plane{
 	margin:4em 0 0 0;
 }
 .w3-agileits-services-left{
-    background: url(../images/g6.jpeg) no-repeat 0px 0px;
+    background: url(/images/g6.jpeg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 570px;
 }
